@@ -1,4 +1,7 @@
 # Explainable AI: Model interpretability
+
+## **[Deployed XAI model](https://dg1223.github.io/explainable-ai/)**
+
 ## Sentiment Analysis
 Sentiment analysis and its explanation generation was done using Facebook's PyTorch-based model interpretability package called [Captum](https://captum.ai/). The dataset was collected from Canada Revenue Agency's twitter handle which sees regular taxpayer interaction.
 
